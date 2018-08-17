@@ -1,1 +1,1 @@
-# smart-home-server
+#THIS REPO IS DEPRECATED
